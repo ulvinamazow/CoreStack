@@ -1,6 +1,6 @@
 # CoreStack
 
-A modern, scalable e-commerce marketplace backend API built with Go, featuring user authentication, product management, shopping cart, order processing, and Stripe payment integration.
+CoreStack — a scalable e-commerce backend API built with Go, featuring authentication, product management, shopping cart, order processing, and Stripe integration.
 
 ## Features
 
