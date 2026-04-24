@@ -54,8 +54,8 @@ A modern, scalable e-commerce marketplace backend API built with Go, featuring u
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd marketplace
+   git clone https://github.com/ulvinamazow/CoreStack.git
+   cd CoreStack
    ```
 
 2. **Install dependencies**
@@ -81,7 +81,7 @@ A modern, scalable e-commerce marketplace backend API built with Go, featuring u
 
 1. **Using Docker Compose (recommended)**
    ```bash
-   docker-compose up -d
+   docker compose up -d
    ```
    This will start both the PostgreSQL database and the API server.
 
