@@ -29,8 +29,5 @@ coverage.out
 tmp/
 temp/
 
-# Node (əgər frontend varsa)
-node_modules/
-
 # Local tooling
 supabase/
