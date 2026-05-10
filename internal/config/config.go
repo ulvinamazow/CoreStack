@@ -67,7 +67,7 @@ func Load() {
 		StripeWebhookSecret: getEnv("STRIPE_WEBHOOK_SECRET", ""),
 		StripeCurrency:      getEnv("STRIPE_CURRENCY", "usd"),
 
-		AdminEmail: getEnv("ADMIN_EMAIL", "ulvinmzv43@gmail.com"),
+		AdminEmail: getEnv("ADMIN_EMAIL", "example@gmail.com"),
 		Port:       getEnv("PORT", "5000"),
 	}
 }
